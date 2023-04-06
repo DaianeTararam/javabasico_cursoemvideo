@@ -1,4 +1,4 @@
-package primeiroprograma;
+package cursoemvideo;
 
 public class PrimeiroPrograma {
     public static void main(String[] args) {
